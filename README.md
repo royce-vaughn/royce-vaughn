@@ -2,7 +2,7 @@
 
 Cybersecurity Analyst → Future DevSecOps Engineer
 
-I build security-focused projects, automate workflows, and continuously level up in cloud + software engineering.
+I wan to build security-focused projects, automate workflows, and continuously level up in the world of Cybersecurity !
 
 ---
 
@@ -72,8 +72,7 @@ Hands-on AWS security configurations and IAM management.
 
 ## 🎯 Current Goals
 
-* Land a first cybersecurity role
-* Transition into DevSecOps
+* Step into Security Analyst Role
 * Build automation tools with Python
 * Strengthen cloud security skills
 
@@ -84,9 +83,3 @@ Hands-on AWS security configurations and IAM management.
 * 🏋🏽‍♂️ Focused on staying lean & disciplined
 * 🎧 Music keeps me locked in
 * 📍 Based in ATX
-
----
-
-## 🚀 Philosophy
-
-> Stay consistent. Build real skills. Level up relentlessly.
