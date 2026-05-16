@@ -1,6 +1,6 @@
 # About Me 😅
 
-Cybersecurity Analyst → Future DevSecOps Engineer
+Senior Product Support Specialist -> Future Cybersecurity Analyst!
 
 I wan to build security-focused projects, automate workflows, and continuously level up in the world of Cybersecurity !
 
