@@ -1,4 +1,4 @@
-# About Me 😅
+# About Me 🤓
 
 Senior Product Support Specialist -> Future Cybersecurity Analyst!
 
