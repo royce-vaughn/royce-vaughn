@@ -103,10 +103,8 @@ Currently Building…
 
 ⚡ A Little About Me
 
-🏋🏽‍♂️ Focused on staying lean, disciplined, and consistent.
+🧋 World's next Boba Enthusiast
 
 🎧 Music keeps me locked in while I’m building projects.
 
 📍 Based in Austin, Texas.
-
-🚀 Always looking for the next project that teaches me something new.
