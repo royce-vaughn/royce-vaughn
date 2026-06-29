@@ -9,7 +9,7 @@ I want to build security-focused projects, automate workflows, and continuously 
 ## 🔗 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/royce-vaughn-a46031180/
-* 🌐 Portfolio: *coming soon*
+* 🌐 Portfolio Site: In Progress
 
 ---
 
