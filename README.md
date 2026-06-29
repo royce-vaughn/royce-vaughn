@@ -31,21 +31,7 @@ Analyzed real-world logs and built dashboards to detect suspicious activity.
 
 ---
 
-### 🎣 Phishing Simulation Lab
-
-Simulated phishing campaigns to understand attacker behavior and user risk.
-**Tech:** GoPhish
-
----
-
-### 🌐 Network Scanning & Enumeration
-
-Performed host discovery and vulnerability identification using scanning tools.
-**Tech:** Nmap
-
----
-
-### ☁️ Cloud Security Lab (In Progress)
+### ☁️ AWS IAM Cloud Security Project 
 
 Hands-on AWS security configurations and IAM management.
 **Tech:** AWS
