@@ -1,70 +1,112 @@
-# About Me 🤓
+👋 Hey, I’m Royce Vaughn
 
-Senior Product Support Specialist -> Future Cybersecurity Analyst!
+Security+ Certified | Senior Product Support Specialist → Cybersecurity Analyst
 
-I want to build security-focused projects, automate workflows, and continuously level up in the world of Cybersecurity !
+I’m passionate about building security-focused projects, learning by doing, and continuously leveling up my cybersecurity skills.
 
----
+My goal is simple: create practical projects that demonstrate real-world security concepts while preparing for a Security Analyst role.
 
-## 🔗 Connect With Me
+⸻
 
-* 💼 LinkedIn: https://www.linkedin.com/in/royce-vaughn-a46031180/
-* 🌐 Portfolio Site: In Progress
+🧪 Featured Projects
 
----
+🛡️ Splunk SOC Brute Force Investigation
 
-## 🛡️ Security Focus
+Built a hands-on SOC investigation using Splunk to detect and analyze brute-force activity.
 
-* SIEM & Log Analysis (Splunk)
-* Threat Detection & Incident Response
-* Network Security & Traffic Analysis
-* Cloud Security Fundamentals (AWS – in progress)
+Highlights
 
----
+* Threat Detection
+* Log Analysis
+* SIEM Dashboards
+* Incident Investigation
+* Security Playbook
 
-## 🧪 Featured Projects
+Tech: Splunk
 
-### 🔍 SIEM Log Analysis Dashboard
+⸻
 
-Analyzed real-world logs and built dashboards to detect suspicious activity.
-**Tech:** Splunk, Log Analysis
+☁️ AWS IAM Security Monitoring
 
----
+Built an AWS IAM lab focused on identity security, least privilege, and CloudTrail investigation.
 
-### ☁️ AWS IAM Cloud Security Project 
+Highlights
 
-Hands-on AWS security configurations and IAM management.
-**Tech:** AWS
+* IAM Users & Groups
+* Role-Based Access Control (RBAC)
+* Least Privilege
+* CloudTrail Monitoring
+* Access Denied Investigation
 
----
+Tech: AWS IAM • CloudTrail
 
-## ⚙️ Tech Stack
+⸻
 
-**Security:** Splunk, Wireshark, Nmap
-**Cloud:** AWS (learning)
-**Programming:** Python (automation focus)
-**Other:** Git, Linux
+🎯 Current Goals
 
----
+* 🛡️ Land my first Security Analyst role
+* ☁️ Continue building cloud security projects
+* 🐍 Build security automation tools with Python
+* 📈 Keep shipping real-world cybersecurity labs
 
-## 📊 GitHub Stats
+⸻
 
-![Royce's GitHub stats](https://github-readme-stats.vercel.app/api?username=royce-vaughn\&show_icons=true\&hide_border=true\&theme=default)
+🛠️ Tech Stack
 
-![GitHub Streak](https://streak-stats.demolab.com?user=royce-vaughn\&hide_border=true)
+Security
 
----
+* Splunk
+* Wireshark
+* Nmap
+* CloudTrail
+* IAM
 
-## 🎯 Current Goals
+Cloud
 
-* Step into Security Analyst Role
-* Build automation tools with Python
-* Strengthen cloud security skills
+* AWS
 
----
+Programming
 
-## ⚡ About Me
+* Python (Automation)
 
-* 🏋🏽‍♂️ Focused on staying lean & disciplined
-* 🎧 Music keeps me locked in
-* 📍 Based in ATX
+Operating Systems
+
+* Linux
+* Windows
+
+Tools
+
+* Git
+* GitHub
+
+⸻
+
+🎓 Currently Learning
+
+* AWS Cloud Security
+* Identity & Access Management (IAM)
+* Detection Engineering
+* Python Automation
+* Governance, Risk & Compliance (GRC)
+
+⸻
+
+🌎 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/royce-vaughn-a46031180/
+
+🌐 Portfolio
+Currently Building…
+
+⸻
+
+⚡ A Little About Me
+
+🏋🏽‍♂️ Focused on staying lean, disciplined, and consistent.
+
+🎧 Music keeps me locked in while I’m building projects.
+
+📍 Based in Austin, Texas.
+
+🚀 Always looking for the next project that teaches me something new.
